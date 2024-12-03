@@ -1,23 +1,26 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=3B82F6&height=200&section=header&text=Nabin%20Kumar%20Upadhaya&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=F0F4F8" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=200&section=header&text=Nabin%20Kumar%20Upadhaya&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=f1f5f9&desc=AI/ML%20Enthusiast%20%7C%20Developer&descAlignY=60&descSize=20" alt="header"/>
 </div>
 
-<h1 align="center">👋 Hello, I'm Nabin Kumar Upadhaya</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Nabin;AI%2FML+Developer;Data+Scientist;Tech+Enthusiast" alt="Typing SVG" />
+</h1>
 
 <p align="center">
   <a href="https://linkedin.com/in/phantombeast7"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-  <img src="https://visitcount.itsvg.in/api?id=phantombeast7&icon=0&color=0" alt="Profile Views" />
+  <a href="https://github.com/phantombeast7"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=phantombeast7&color=6366f1&style=for-the-badge" alt="Profile Views" />
 </p>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/phantombeast7/phantombeast7/main/assets/welcome-animation.gif" alt="Welcome Animation" width="100%">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
 
 ## 🧠 About Me
 
 I'm an AI/ML enthusiast and developer passionate about pushing the boundaries of technology. My journey involves exploring the realms of artificial intelligence, machine learning, and data science to create innovative solutions.
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/phantombeast7/phantombeast7/main/assets/ai-robot.gif">
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjM4YzMyMzFkMzMyNTRkNzU3OTFhM2M1NTQwNTJhOTRhZDI5NmMwNiZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ## 🚀 What I Do
 
@@ -25,6 +28,10 @@ I'm an AI/ML enthusiast and developer passionate about pushing the boundaries of
 - 📊 Analyze complex datasets
 - 🧮 Implement machine learning algorithms
 - 🌐 Create intelligent web applications
+
+<div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
 
 ## 💻 Tech Stack
 
@@ -48,55 +55,75 @@ I'm an AI/ML enthusiast and developer passionate about pushing the boundaries of
 
 </div>
 
+<div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
+
 <h2 align="center">📊 GitHub Stats & Contributions</h2>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=phantombeast7&show_icons=true&theme=github_dark&hide_border=true&border_radius=10&bg_color=0D1117&icon_color=3B82F6&title_color=3B82F6&text_color=F0F4F8" alt="PhantomBeast7's GitHub stats"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=phantombeast7&theme=github-dark-blue&hide_border=true&border_radius=10&background=0D1117&stroke=3B82F6&ring=3B82F6&fire=3B82F6&currStreakNum=F0F4F8&sideNums=F0F4F8&currStreakLabel=3B82F6&sideLabels=3B82F6&dates=F0F4F8" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=phantombeast7&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&bg_color=1a1b27&icon_color=6366f1&title_color=6366f1&text_color=70a5fd" height="180em" alt="PhantomBeast7's GitHub stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=phantombeast7&theme=tokyonight&hide_border=true&border_radius=10&background=1a1b27&stroke=6366f1&ring=6366f1&fire=ff7b72&currStreakNum=70a5fd&sideNums=70a5fd&currStreakLabel=6366f1&sideLabels=6366f1&dates=70a5fd" height="180em" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=phantombeast7&custom_title=Nabin's%20Contribution%20Graph&hide_border=true&border_radius=15&bg_color=0D1117&color=3B82F6&line=3B82F6&point=F0F4F8&area_color=3B82F6&title_color=F0F4F8&area=true" alt="GitHub Contribution Graph" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=phantombeast7&custom_title=Nabin's%20Contribution%20Graph&hide_border=true&border_radius=15&bg_color=1a1b27&color=6366f1&line=6366f1&point=70a5fd&area_color=6366f1&title_color=fff&area=true" width="100%" alt="GitHub Contribution Graph"/>
 </div>
 
 <div align="center">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phantombeast7&layout=compact&langs_count=8&theme=github_dark&hide_border=true&border_radius=10&bg_color=0D1117&title_color=3B82F6&text_color=F0F4F8" alt="Top Languages"/>
-  <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=phantombeast7&theme=github_dark&hide_border=true&border_radius=10" alt="Repos Per Language"/>
-  <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=phantombeast7&theme=github_dark&hide_border=true&border_radius=10" alt="Most Commit Language"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phantombeast7&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=10&bg_color=1a1b27&title_color=6366f1&text_color=70a5fd" height="200em" alt="Top Languages"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=phantombeast7&theme=tokyonight" height="200em" alt="Repos Per Language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=phantombeast7&theme=tokyonight" height="200em" alt="Most Commit Language"/>
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=phantombeast7&theme=github_dark&hide_border=true&border_radius=10" alt="Profile Details" width="100%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=phantombeast7&theme=tokyonight" width="100%" alt="Profile Details"/>
+</div>
+
+<div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
 
 ## 🌟 Featured Projects
 
 <div align="center">
   <a href="https://github.com/phantombeast7/awesome-ai-project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=phantombeast7&repo=awesome-ai-project&theme=github_dark&hide_border=true&border_radius=10&bg_color=0D1117&icon_color=3B82F6&title_color=3B82F6&text_color=F0F4F8" alt="Awesome AI Project"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=phantombeast7&repo=awesome-ai-project&theme=tokyonight&hide_border=true&border_radius=10&bg_color=1a1b27&icon_color=6366f1&title_color=6366f1&text_color=70a5fd" alt="Awesome AI Project"/>
   </a>
   <a href="https://github.com/phantombeast7/ml-experiments">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=phantombeast7&repo=ml-experiments&theme=github_dark&hide_border=true&border_radius=10&bg_color=0D1117&icon_color=3B82F6&title_color=3B82F6&text_color=F0F4F8" alt="ML Experiments"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=phantombeast7&repo=ml-experiments&theme=tokyonight&hide_border=true&border_radius=10&bg_color=1a1b27&icon_color=6366f1&title_color=6366f1&text_color=70a5fd" alt="ML Experiments"/>
   </a>
+</div>
+
+<div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
 
 ## 🎨 My Coding Journey
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/phantombeast7/phantombeast7/main/assets/coding-journey.gif" alt="Coding Journey" width="100%"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGNiMjBmMjM5YTBkYzQ2MjYyYjBkZDI4ZGNlMGJlZGQ2NzQ3YmM3YiZjdD1n/RbDKaczqWovIugyJmW/giphy.gif" alt="Coding Journey" width="100%"/>
+</div>
+
+<div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
 
 ## 📜 Random Dev Quote
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/phantombeast7/phantombeast7/main/assets/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%"/>
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=3B82F6&height=100&section=footer" alt="footer"/>
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%"/>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=100&section=footer" alt="footer"/>
 </div>
 
