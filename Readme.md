@@ -74,13 +74,7 @@ I'm an AI/ML enthusiast and developer passionate about pushing the boundaries of
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=phantombeast7&theme=radical&hide_border=true" alt="Profile Details" width="100%">
 </div>
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=phantombeast7&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=phantombeast7&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=phantombeast7&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=phantombeast7&theme=highcontrast&hide_border=true">
-</div>
 
 ## 🌟 Featured Projects
 
