@@ -1,13 +1,13 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/phantombeast7/phantombeast7/main/assets/ai-banner.gif" alt="AI/ML Banner" width="100%">
-  
-  # 👋 Hello, I'm Nabin Kumar Upadhaya
-  
-  <p>
-    <a href="https://linkedin.com/in/phantombeast7"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-    <img src="https://visitcount.itsvg.in/api?id=phantombeast7&icon=0&color=0" alt="watching_count" />
-  </p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Nabin%20Kumar%20Upadhaya&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff" alt="header"/>
 </div>
+
+<h1 align="center">👋 Hello, I'm Nabin Kumar Upadhaya</h1>
+
+<p align="center">
+  <a href="https://linkedin.com/in/phantombeast7"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+  <img src="https://visitcount.itsvg.in/api?id=phantombeast7&icon=0&color=0" alt="watching_count" />
+</p>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/phantombeast7/phantombeast7/main/assets/welcome-animation.gif" alt="Welcome Animation" width="100%">
@@ -58,7 +58,7 @@ I'm an AI/ML enthusiast and developer passionate about pushing the boundaries of
 <br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=phantombeast7&custom_title=PhantomBeast7's%20Contribution%20Graph&hide_border=true&border_radius=15&bg_color=20232a&color=58a6ff&line=114a88&point=58a6ff&area_color=58a6ff&title_color=58a6ff&area=true" alt="GitHub Contribution Graph" width="100%">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=phantombeast7&custom_title=Nabin's%20Contribution%20Graph&hide_border=true&border_radius=15&bg_color=20232a&color=58a6ff&line=114a88&point=58a6ff&area_color=58a6ff&title_color=58a6ff&area=true" alt="GitHub Contribution Graph" width="100%">
 </div>
 
 <br>
@@ -74,7 +74,6 @@ I'm an AI/ML enthusiast and developer passionate about pushing the boundaries of
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=phantombeast7&theme=radical&hide_border=true" alt="Profile Details" width="100%">
 </div>
-
 
 ## 🌟 Featured Projects
 
@@ -106,8 +105,6 @@ I'm an AI/ML enthusiast and developer passionate about pushing the boundaries of
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/phantombeast7/phantombeast7/main/assets/ai-footer.gif" alt="AI Footer" width="100%">
-  <br>
-  <img src="https://raw.githubusercontent.com/phantombeast7/phantombeast7/main/assets/thanks-for-visiting.gif" alt="Thanks for visiting" width="150px">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="footer"/>
 </div>
 
