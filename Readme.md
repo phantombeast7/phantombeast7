@@ -87,11 +87,18 @@ I'm an AI/ML enthusiast and developer passionate about pushing the boundaries of
 ## 📌 Pinned Projects
 
 <div align="center" style="display: flex; justify-content: center; align-items: stretch; flex-wrap: wrap; gap: 10px;">
-  <a href="https://github.com/phantombeast7/awesome-ai-project" style="flex: 1; min-width: 300px; text-decoration: none;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=phantombeast7&repo=awesome-ai-project&theme=tokyonight&hide_border=true&border_radius=10&bg_color=1a1b27&icon_color=6366f1&title_color=6366f1&text_color=70a5fd" alt="Awesome AI Project" style="width: 100%; height: 100%; object-fit: cover; border-radius: 10px;"/>
+  <!-- First Card -->
+  <a href="https://github.com/phantombeast7/BirdRecon-A-Free-Open-Source-Tool-for-Image-based-Bird-Species-Recognition" style="flex: 1; min-width: 300px; max-width: 400px; text-decoration: none;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=phantombeast7&repo=awesome-ai-project&theme=tokyonight&hide_border=true&border_radius=10&bg_color=1a1b27&icon_color=6366f1&title_color=6366f1&text_color=70a5fd" 
+         alt="BirdRecon" 
+         style="width: 100%; height: auto; object-fit: cover; border-radius: 10px;" />
   </a>
-  <a href="https://github.com/phantombeast7/ml-experiments" style="flex: 1; min-width: 300px; text-decoration: none;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=phantombeast7&repo=ml-experiments&theme=tokyonight&hide_border=true&border_radius=10&bg_color=1a1b27&icon_color=6366f1&title_color=6366f1&text_color=70a5fd" alt="ML Experiments" style="width: 100%; height: 100%; object-fit: cover; border-radius: 10px;"/>
+
+  <!-- Second Card -->
+  <a href="https://github.com/phantombeast7/JobTrackr" style="flex: 1; min-width: 300px; max-width: 400px; text-decoration: none;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=phantombeast7&repo=ml-experiments&theme=tokyonight&hide_border=true&border_radius=10&bg_color=1a1b27&icon_color=6366f1&title_color=6366f1&text_color=70a5fd" 
+         alt="JobTrackr" 
+         style="width: 100%; height: auto; object-fit: cover; border-radius: 10px;" />
   </a>
 </div>
 
