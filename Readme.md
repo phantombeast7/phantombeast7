@@ -61,19 +61,19 @@ I'm an AI/ML enthusiast and developer passionate about pushing the boundaries of
 
 <h2 align="center">📊 GitHub Stats & Contributions</h2>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=phantombeast7&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&bg_color=1a1b27&icon_color=6366f1&title_color=6366f1&text_color=70a5fd" height="180em" alt="PhantomBeast7's GitHub stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=phantombeast7&theme=tokyonight&hide_border=true&border_radius=10&background=1a1b27&stroke=6366f1&ring=6366f1&fire=ff7b72&currStreakNum=70a5fd&sideNums=70a5fd&currStreakLabel=6366f1&sideLabels=6366f1&dates=70a5fd" height="180em" alt="GitHub Streak"/>
+<div align="center" style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=phantombeast7&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&bg_color=1a1b27&icon_color=6366f1&title_color=6366f1&text_color=70a5fd" height="180em" alt="PhantomBeast7's GitHub stats" style="flex: 1; min-width: 300px;"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=phantombeast7&theme=tokyonight&hide_border=true&border_radius=10&background=1a1b27&stroke=6366f1&ring=6366f1&fire=ff7b72&currStreakNum=70a5fd&sideNums=70a5fd&currStreakLabel=6366f1&sideLabels=6366f1&dates=70a5fd" height="180em" alt="GitHub Streak" style="flex: 1; min-width: 300px;"/>
 </div>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=phantombeast7&custom_title=Nabin's%20Contribution%20Graph&hide_border=true&border_radius=15&bg_color=1a1b27&color=6366f1&line=6366f1&point=70a5fd&area_color=6366f1&title_color=fff&area=true" width="100%" alt="GitHub Contribution Graph"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phantombeast7&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=10&bg_color=1a1b27&title_color=6366f1&text_color=70a5fd" height="200em" alt="Top Languages"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=phantombeast7&theme=tokyonight" height="200em" alt="Repos Per Language"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=phantombeast7&theme=tokyonight" height="200em" alt="Most Commit Language"/>
+<div align="center" style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phantombeast7&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=10&bg_color=1a1b27&title_color=6366f1&text_color=70a5fd" height="200em" alt="Top Languages" style="flex: 1; min-width: 300px;"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=phantombeast7&theme=tokyonight" height="200em" alt="Repos Per Language" style="flex: 1; min-width: 300px;"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=phantombeast7&theme=tokyonight" height="200em" alt="Most Commit Language" style="flex: 1; min-width: 300px;"/>
 </div>
 
 <div align="center">
@@ -84,14 +84,14 @@ I'm an AI/ML enthusiast and developer passionate about pushing the boundaries of
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
 
-## 🌟 Featured Projects
+## 📌 Pinned Projects
 
-<div align="center">
-  <a href="https://github.com/phantombeast7/awesome-ai-project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=phantombeast7&repo=awesome-ai-project&theme=tokyonight&hide_border=true&border_radius=10&bg_color=1a1b27&icon_color=6366f1&title_color=6366f1&text_color=70a5fd" alt="Awesome AI Project"/>
+<div align="center" style="display: flex; justify-content: center; align-items: stretch; flex-wrap: wrap; gap: 10px;">
+  <a href="https://github.com/phantombeast7/awesome-ai-project" style="flex: 1; min-width: 300px; text-decoration: none;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=phantombeast7&repo=awesome-ai-project&theme=tokyonight&hide_border=true&border_radius=10&bg_color=1a1b27&icon_color=6366f1&title_color=6366f1&text_color=70a5fd" alt="Awesome AI Project" style="width: 100%; height: 100%; object-fit: cover; border-radius: 10px;"/>
   </a>
-  <a href="https://github.com/phantombeast7/ml-experiments">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=phantombeast7&repo=ml-experiments&theme=tokyonight&hide_border=true&border_radius=10&bg_color=1a1b27&icon_color=6366f1&title_color=6366f1&text_color=70a5fd" alt="ML Experiments"/>
+  <a href="https://github.com/phantombeast7/ml-experiments" style="flex: 1; min-width: 300px; text-decoration: none;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=phantombeast7&repo=ml-experiments&theme=tokyonight&hide_border=true&border_radius=10&bg_color=1a1b27&icon_color=6366f1&title_color=6366f1&text_color=70a5fd" alt="ML Experiments" style="width: 100%; height: 100%; object-fit: cover; border-radius: 10px;"/>
   </a>
 </div>
 
@@ -117,10 +117,6 @@ I'm an AI/ML enthusiast and developer passionate about pushing the boundaries of
 
 <div align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%"/>
 </div>
 
 <div align="center">
