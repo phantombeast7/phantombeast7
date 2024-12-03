@@ -99,15 +99,7 @@ I'm an AI/ML enthusiast and developer passionate about pushing the boundaries of
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
 
-## 🎨 My Coding Journey
 
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGNiMjBmMjM5YTBkYzQ2MjYyYjBkZDI4ZGNlMGJlZGQ2NzQ3YmM3YiZjdD1n/RbDKaczqWovIugyJmW/giphy.gif" alt="Coding Journey" width="100%"/>
-</div>
-
-<div align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</div>
 
 ## 📜 Random Dev Quote
 
