@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/phantombeast7"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-  <img src="https://komarev.com/ghpvc/?username=phantombeast7&color=3B82F6&style=for-the-badge" alt="Profile Views" />
+  <img src="https://visitcount.itsvg.in/api?id=phantombeast7&icon=0&color=0" alt="Profile Views" />
 </p>
 
 <div align="center">
